@@ -2,7 +2,7 @@
 
 🎓 **B.Tech CSE student** at *Jalpaiguri Government Engineering College (Autonomous)*  
 📍 From *Coochbehar, India*  
-💻 Passionate about **Competitive Programming**, **Full-Stack Development**, and 
+💻 Passionate about **Competitive Programming**, **Full-Stack Development**, 
 
 
 
