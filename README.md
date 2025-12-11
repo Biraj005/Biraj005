@@ -2,16 +2,16 @@
 
 🎓 **B.Tech CSE student** at *Jalpaiguri Government Engineering College (Autonomous)*  
 📍 From *Coochbehar, India*  
-💻 Passionate about **Competitive Programming**, **Full-Stack Development**, and **Machine Learning**
+💻 Passionate about **Competitive Programming**, **Full-Stack Development**, and 
+
+
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently learning and building projects using **MERN Stack** and **C++**
-- 💬 Interested in solving challenging problems using **Algorithms & Data Structures**
-- 🧠 Exploring **Machine Learning** and **System Design**
-- ⚙️ I love optimizing code, designing efficient solutions, and working on impactful ideas
-- 🌱 Focused on improving problem-solving and development skills every day
+- 🔭 Currently building projects using the **MERN Stack**
+- 🧠 Exploring **full-stack development**
+- 🌱 Improving problem-solving and development skills every day
 
 ---
 
@@ -20,6 +20,7 @@
 **Languages:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend:**  
@@ -32,23 +33,24 @@
 
 **Database & Cloud:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-004dff?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
 ---
 
 ## 🧩 Competitive Programming
-
-- 🏆 Solved 1000+ problems across multiple platforms  
-- 💡 Regular participant in **Codeforces**, **LeetCode**, and **CodeChef** contests  
-- ⚙️ Focused on mastering topics like **Dynamic Programming**, **Graphs**, **Segment Trees**, and **Binary Search**
+⚔️ **Knight on LeetCode** | 🛡️ **Specialist on Codeforces**
+- 🏆 Solved **1000+ problems** across multiple platforms  
+- 💡 Active on **Codeforces**, **LeetCode**, and **CodeChef**  
 
 | Platform | Profile |
-|-----------|----------|
+|----------|---------|
 | 🧮 **Codeforces** | [codeforces.com/profile/birajroy](https://codeforces.com/profile/birajroy) |
 | 💡 **LeetCode** | [leetcode.com/u/birajroy](https://leetcode.com/u/birajroy) |
 | 💼 **LinkedIn** | [linkedin.com/in/birajroy](https://linkedin.com/in/birajroy) |
@@ -59,25 +61,11 @@
 ## 💻 Projects & Work
 
 I enjoy building:
-- 🧩 Scalable full-stack web applications  
-- ⚙️ Utility libraries and reusable components  
-- 📊 Algorithmic and data-structure-based solutions  
-- 🔒 Secure authentication and API systems  
+- 🧩 Scalable full-stack applications  
+- 🔒 Authentication & secure API systems  
+- ⚡ High-performance backend services  
 
-Each project I build focuses on **clean architecture**, **efficiency**, and **user experience**.
-
----
-
-## 📊 GitHub Stats
-
-![Biraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BirajRoy&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BirajRoy&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 Achievements & Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BirajRoy&theme=onedark&no-frame=true&margin-w=10)
+Every project is designed with **clean architecture**, **efficiency**, and **great user experience** in mind.
 
 ---
 
