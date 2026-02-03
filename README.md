@@ -2,86 +2,70 @@
 
 🎓 **B.Tech CSE student** at *Jalpaiguri Government Engineering College (Autonomous)*  
 📍 From *Coochbehar, India*  
-💻 Passionate about **Competitive Programming**, **Full-Stack Development**, 
-
-
+💻 Passionate about **Competitive Programming**, **Full-Stack Development**
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently building projects using the **MERN Stack**
-- 🧠 Exploring **full-stack development**
-- 🌱 Improving problem-solving and development skills every day
+## 🌟 About Me
+
+- 🔭 **Currently building**: Projects using the **MERN Stack**
+- 🧠 **Exploring**: Full-stack development & system design
+- 🌱 **Growing**: Improving problem-solving and development skills every day
+- ⚔️ **Competitive Programming**: Knight on LeetCode | Specialist on Codeforces
+- 🏆 **Achievement**: Solved **1000+ problems** across multiple platforms
 
 ---
 
-## 🧠 Tech Stack
+## 📬 How to reach me:
 
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Database & Cloud:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-004dff?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+- Email: [birajroy@example.com](mailto:birajroy@example.com)
 
 ---
 
-## 🧩 Competitive Programming
-⚔️ **Knight on LeetCode** | 🛡️ **Specialist on Codeforces**
-- 🏆 Solved **1000+ problems** across multiple platforms  
-- 💡 Active on **Codeforces**, **LeetCode**, and **CodeChef**  
+## 🌍 Connect with me:
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/biraj-roy-068254324/) 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Biraj005)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dy_dx_biraj/)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/roybiraj179)
+
+---
+
+## 🧑‍💻 Languages & Tools:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,prisma,docker,git,vscode" />
+  </a>
+</p>
+
+---
+
+## 🧩 Competitive Programming Profiles:
 
 | Platform | Profile |
-|----------|---------|
-| 🧮 **Codeforces** | [codeforces.com/profile/birajroy](https://codeforces.com/profile/birajroy) |
-| 💡 **LeetCode** | [leetcode.com/u/birajroy](https://leetcode.com/u/birajroy) |
-| 💼 **LinkedIn** | [linkedin.com/in/birajroy](https://linkedin.com/in/birajroy) |
-| 🧑‍💻 **GitHub** | [github.com/BirajRoy](https://github.com/BirajRoy) |
+| ------------- | ---------------------------------------------------------------------------------- |
+| 🧮 Codeforces | [https://codeforces.com/profile/roybiraj179](https://codeforces.com/profile/roybiraj179) |
+| 💡 LeetCode | [https://leetcode.com/u/dy_dx_biraj/](https://leetcode.com/u/dy_dx_biraj/) |
 
 ---
 
-## 💻 Projects & Work
+## 💻 What I Build:
 
-I enjoy building:
-- 🧩 Scalable full-stack applications  
-- 🔒 Authentication & secure API systems  
-- ⚡ High-performance backend services  
+- 🧩 Scalable full-stack applications
+- 🔒 Authentication & secure API systems
+- ⚡ High-performance backend services
 
-Every project is designed with **clean architecture**, **efficiency**, and **great user experience** in mind.
-
----
-
-## ⚡ Fun Fact
-> “I don’t just solve problems — I optimize them.”
+Every project focuses on **clean architecture**, **efficiency**, and **great UX**.
 
 ---
 
-## 💬 Connect With Me
+## 📈 GitHub Stats:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/birajroy)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/birajroy)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/birajroy)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:birajroy070@gmail.com)
+![Biraj Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Biraj005&show_icons=true&theme=radical)
 
 ---
 
-⭐ **“Consistency is what turns potential into performance.”**  
+⭐ **"Consistency is what turns potential into performance."**
+
 Thanks for visiting my profile! 🙌
