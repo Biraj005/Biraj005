@@ -8,8 +8,8 @@
 
 ## 🌟 About Me
 
-- 🔭 **Currently building**: Projects using the **MERN Stack**
-- 🧠 **Exploring**: Full-stack development & system design
+- 🔭 **Currently building**: Projects using the **MERN Stack** & **Spring Boot**
+- 🧠 **Exploring**: Full-stack development 
 - 🌱 **Growing**: Improving problem-solving and development skills every day
 - ⚔️ **Competitive Programming**: Knight on LeetCode | Specialist on Codeforces
 - 🏆 **Achievement**: Solved **1000+ problems** across multiple platforms
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,prisma,docker,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,spring,mongodb,prisma,docker,git,vscode" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 ## 💻 What I Build:
 
-- 🧩 Scalable full-stack applications
+- 🧩 Scalable full-stack applications (MERN & Spring Boot)
 - 🔒 Authentication & secure API systems
 - ⚡ High-performance backend services
 
