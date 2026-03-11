@@ -18,7 +18,7 @@
 
 ## 📬 How to reach me:
 
-- Email: [birajroy@example.com](mailto:birajroy@example.com)
+- Email: [birajroy0007@gmail.com](mailto:birajroy0007@gmail.com)
 
 ---
 
